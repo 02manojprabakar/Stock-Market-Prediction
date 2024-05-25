@@ -3,6 +3,7 @@ NEXUS INTERNSHIP PROJECT PHASE 1
                                                                         
 Name: Manoj Prabakar B  
 Ph no: 9843172255
+
 Email ID: manojrockerguy246@gmail.com
                                                                       
 Project Phase 1:  Stock Market  Prediction
