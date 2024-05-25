@@ -1,0 +1,2 @@
+# Stock-Market-Prediction
+NEXUS INTERNSHIP PROJECT PHASE 1
